@@ -19,4 +19,4 @@
 
 ### Статка
 
-<a href="http://www.github.com/HolyLightRU"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HolyLightRU&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HolyLightRU&theme=dark-smoky&locale=ru&exclude_days=Sun&ring=59EB40&excludeDaysLabel=EB5454&fire=EB00D7C4" alt="GitHub Streak" /></a>
