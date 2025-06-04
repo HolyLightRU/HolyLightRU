@@ -23,5 +23,4 @@
     </a>
   </div>
 
-### Кот
-<img src="https://media.discordapp.net/attachments/311202522922614794/1094140477080612865/youtube-video-gif.gif?ex=683fe1b9&is=683e9039&hm=2215d3e02d0133a632e3dc66f875f2c4e60d7e2ea8c7023b4604062365b9ce73&=" alt=":3" width="100" height="100" />
+<img src="https://c.tenor.com/pSWEyf6XFusAAAAd/tenor.gif" alt=":3" width="100" height="100" />
