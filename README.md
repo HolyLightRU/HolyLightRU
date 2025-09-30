@@ -1,4 +1,4 @@
-HolyLight (Роман)
+🌈 HolyLight (Роман) 
 ==========================
 
 * 🌍  Обитаю где-то в Ново-Николаевске
@@ -33,7 +33,7 @@ HolyLight (Роман)
 ### Статка
   <div>
     <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=HolyLightRU&theme=dark-smoky&locale=ru&exclude_days=Sun&ring=5BCEFA&excludeDaysLabel=5BCEFA&fire=F5A9B8&dates=F5A9B8&border=5BCEFA&stroke=F5A9B8&sideNums=F5A9B8" alt="GitHub Streak"/>
+      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=HolyLightRU&theme=dark-smoky&locale=ru&ring=5BCEFA&excludeDaysLabel=5BCEFA&fire=F5A9B8&dates=F5A9B8&border=5BCEFA&stroke=F5A9B8&sideNums=F5A9B8" alt="GitHub Streak"/>
     </a>
   </div>
 
