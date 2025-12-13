@@ -32,7 +32,7 @@
 ### Статка
   <div>
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com/?user=HolyLightRU&theme=dark-smoky&locale=ru&ring=22F488&excludeDaysLabel=22F488&fire=70F6EF&dates=70F6EF&border=22F488&stroke=70F6EF&sideNums=70F6EF" alt="GitHub Streak"/>
+      <img src="https://github-readme-streak-stats-rose-seven.vercel.app?user=HolyLightRU&theme=dark-smoky&locale=ru&ring=22F488&excludeDaysLabel=22F488&fire=70F6EF&dates=70F6EF&border=22F488&stroke=70F6EF&sideNums=70F6EF" alt="GitHub Streak"/>
     </a>
   </div>
 
