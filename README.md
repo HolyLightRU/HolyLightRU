@@ -27,6 +27,7 @@
   <div>
     <a href="https://t.me/HolyLightRU" target="_blank"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=FFD700" alt="Telegram"/></a>
     <a href="https://t.me/notholylab" target="_blank"><img src="https://img.shields.io/badge/TG%20Channel-000000?style=for-the-badge&logo=telegram&logoColor=FFD700" alt="TG Channel"/></a>
-    <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-%40holylightru-000000?style=for-the-badge&logo=discord&logoColor=FFD700" alt="Discord"/></a>
+    <a href="https://discord.com" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-%40holylightru-000000?style=for-the-badge&logo=discord&logoColor=FFD700&labelColor=000000" alt="Discord"/></a>
   </div>
 </center>
